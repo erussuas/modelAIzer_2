@@ -1,0 +1,20 @@
+{
+  "tariff": "TOU-D-4-9PM",
+  "customer_class": "Residential",
+  "tou_periods": [
+    "on_peak",
+    "mid_peak",
+    "off_peak"
+  ],
+  "customer_charge_per_day": 0.77,
+  "has_demand": false,
+  "energy_rates": {
+    "on_peak": 0.61,
+    "mid_peak": 0.47,
+    "off_peak": 0.39
+  },
+  "eligibility": {
+    "min_kw": 0,
+    "max_kw": 20
+  }
+}
